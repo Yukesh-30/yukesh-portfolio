@@ -85,7 +85,6 @@ function Hero() {
                         </a>
                         <a
                           href="#"
-                          target="_blank"
                           rel="noopener noreferrer"
                           className="text-white hover:text-red-500 text-3xl cursor-pointer"
                         >
