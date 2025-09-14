@@ -68,15 +68,15 @@ function Hero() {
 
                     <div className="flex flex-row justify-center items-center space-x-12">
                         <a
-                          href="#"
+                          href="https://github.com/Yukesh-30"
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="text-white hover:text-gray-400 text-3xl cursor-pointer"
+                          className="text-white hover:text-red-500 text-3xl cursor-pointer"
                         >
                           <AiOutlineGithub />
                         </a>
                         <a
-                          href="#"
+                          href="www.linkedin.com/in/yukesh-d-293235305"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="text-white hover:text-red-500 text-3xl cursor-pointer"
